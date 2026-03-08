@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Trance",
+  "base_artist": "Metro Boomin, Travis Scott, & Young Thug",
+  "createdAt": "2026-03-08T20:35:10.137123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trance",
+      "artist": "Myth Syzer feat. Take a Mic",
+      "has_synced": true,
+      "path": "select/01_Trance_Myth_Syzer_feat._Take_a_Mic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trance (feat. Take a Mic)",
+      "artist": "Myth Syzer, Take a Mic",
+      "has_synced": true,
+      "path": "select/02_Trance_(feat._Take_a_Mic)_Myth_Syzer,_Take_a_Mic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trance Sisters",
+      "artist": "Memory Tapes",
+      "has_synced": true,
+      "path": "select/03_Trance_Sisters_Memory_Tapes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What Time Is Love (original pure trance mix)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/04_What_Time_Is_Love_(original_pure_trance_mix)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Europop (No Fear trance mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/05_Europop_(No_Fear_trance_mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Trance (feat. Karlae & Yung Bleu)",
+      "artist": "Young Stoner Life feat. Karlae & Yung Bleu",
+      "has_synced": true,
+      "path": "select/06_Trance_(feat._Karlae_&_Yung_Bleu)_Young_Stoner_Life_feat._Karlae_&_Yung_Bleu.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trance (feat. Karlae & Yung Bleu)",
+      "artist": "Young Stoner Life",
+      "has_synced": false,
+      "path": "select/07_Trance_(feat._Karlae_&_Yung_Bleu)_Young_Stoner_Life.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Need Love (Trance-Techno mix)",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/08_I_Need_Love_(Trance-Techno_mix)_Sandra.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tripping on Your Love (Euro Trance Mix)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/09_Tripping_on_Your_Love_(Euro_Trance_Mix)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Put Me in a Trance",
+      "artist": "Nu Shooz",
+      "has_synced": false,
+      "path": "select/10_You_Put_Me_in_a_Trance_Nu_Shooz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "3 A.M. Eternal (1989 \"Break for Love\" mix/original Pure Trance mix)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/11_3_A.M._Eternal_(1989__Break_for_Love__mix_original_Pure_Trance_mix)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "3 A.M. Eternal (1989 'Break For Love' Mix\u0000Original Pure Trance Mix)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/12_3_A.M._Eternal_(1989_'Break_For_Love'_Mix\u0000Original_Pure_Trance_Mix)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blue (Hermes Trance mix)",
+      "artist": "Latour",
+      "has_synced": false,
+      "path": "select/13_Blue_(Hermes_Trance_mix)_Latour.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "DMT (Dance Music Trance)",
+      "artist": "Deee-Lite",
+      "has_synced": false,
+      "path": "select/14_DMT_(Dance_Music_Trance)_Deee-Lite.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "DMT (Dance Music Trance)",
+      "artist": "Deee‐Lite",
+      "has_synced": false,
+      "path": "select/15_DMT_(Dance_Music_Trance)_Deee‐Lite.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dreams (Twenty 4 Seven Trance Mix)",
+      "artist": "2 Brothers On the 4th Floor",
+      "has_synced": true,
+      "path": "select/16_Dreams_(Twenty_4_Seven_Trance_Mix)_2_Brothers_On_the_4th_Floor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Trance",
+      "artist": "Metro Boomin, Travis Scott & Young Thug",
+      "has_synced": false,
+      "path": "select/pl_01_Trance_Metro_Boomin,_Travis_Scott_&_Young_Thug.txt"
+    }
+  ]
+}
